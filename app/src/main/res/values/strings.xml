@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SykkelApp</string>
+    <string name="star">star</string>
+    <string name="map">map</string>
+    <string name="button_map">Se rute i kart</string>
+    <string name="airquality">Luftkvalitet</string>
+</resources>

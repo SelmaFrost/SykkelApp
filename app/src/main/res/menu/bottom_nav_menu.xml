@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bike"
+        android:title="routes"
+        android:icon="@drawable/ic_bike"
+        />
+    <item
+        android:id="@+id/map"
+        android:title="@string/map"
+        android:icon="@drawable/ic_map"
+        />
+    <item
+        android:id="@+id/star"
+        android:title="favourites"
+        android:icon="@drawable/ic_star"
+        />
+
+</menu>
